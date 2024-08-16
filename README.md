@@ -1,7 +1,7 @@
 <h1 align=center> HI! I'm Inthikhaff</h1>
 <h3 align="center">A passionate fullstack developer from Srilanka</h3>
 # 💫 About Me:
-I'm Inthikhaff, a passionate 3rd-year Undergraduate Student in Information Technology, specializing in the dynamic realm of Software Engineering. With a heart full of enthusiasm for all things code and an insatiable curiosity for technology's endless possibilities, I've embarked on a journey that began a few years back and has been an exhilarating ride ever since.
+I'm Inthikhaff, a passionate 4th-year Undergraduate Student in Information Technology, specializing in the dynamic realm of Software Engineering. With a heart full of enthusiasm for all things code and an insatiable curiosity for technology's endless possibilities, I've embarked on a journey that began a few years back and has been an exhilarating ride ever since.
 
 
 ## 🌐 Socials:
