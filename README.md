@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Inthikhaff</h1>
-<h3 align="center">🚀 Full Stack Developer | Cloud Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀 Full Stack Developer | Laravel & React Enthusiast | Problem Solver</h3>
 
 ---
 
@@ -74,15 +74,5 @@ With a proven track record in **system optimization** and **seamless integration
 ![](https://github-contributor-stats.vercel.app/api?username=miminthikhaff&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-## 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=miminthikhaff&icon=0&color=1" alt="Profile Visits"/>
-</p>
 
 <!-- Made with ❤️ using GPRM (https://gprm.itsvg.in) -->
