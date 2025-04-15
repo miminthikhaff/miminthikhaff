@@ -1,5 +1,18 @@
-<h1 align="center">Hey there 👋, I'm Inthikhaff</h1>
-<h3 align="center">🚀 Full Stack Developer | Laravel & React Enthusiast | Problem Solver</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Inthikhaff!;Full+Stack+Developer+%7C+Software+Engineer;Cloud+Enthusiast;Welcome+to+My+GitHub!" alt="Typing animated introduction" />
+  </a>
+</p>
+
+
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-4A90E2?style=for-the-badge" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Designer-FF6B6B?style=for-the-badge" alt="UI/UX" />
+  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-54B435?style=for-the-badge" alt="Open Source" />
+</div>
+
+<br/>
 
 ---
 
@@ -11,12 +24,29 @@ With a proven track record in **system optimization** and **seamless integration
 
 ---
 
-## 🌍 Connect with Me
+## 🤝 Let's Connect!
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/inthikhaff.ismail)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/miminthodals99/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-inthikhaff)  
-[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white)](https://medium.com/@mhdinthikaff)
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohamed-inthikhaff/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0e76a8" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mhdinthikaff@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=c71610" alt="Email" />
+  </a>
+  <a href="https://medium.com/@mhdinthikaff" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000" alt="Medium" />
+  </a>
+   <a href="https://stackoverflow.com/users/30283137/inthikhaff-m-i-m" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=F48024" alt="Stack Overflow" />
+  </a>
+   <a href="https://web.facebook.com/inthikhaff.ismail/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1559c9" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/miminthodals99/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=d62e5d" alt="Instagram" />
+  </a>
+</div>
+
 
 ---
 
@@ -66,6 +96,33 @@ With a proven track record in **system optimization** and **seamless integration
 | GitHub Stats | Streak | Top Languages |
 |--------------|--------|----------------|
 | ![](https://github-readme-stats.vercel.app/api?username=miminthikhaff&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=miminthikhaff&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=miminthikhaff&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=miminthikhaff&row=1&column=6&margin-h=8&theme=algolia&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=miminthikhaff&theme=radical&hide_border=true&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miminthikhaff&show_icons=true&theme=radical&hide_border=true&count_private=true&icon_color=4A90E2&title_color=4A90E2" alt="Miminthikhaff's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miminthikhaff&layout=compact&theme=radical&hide_border=true&title_color=4A90E2" alt="Miminthikhaff's top languages" />
+</div>
+
+<br/>
+
+[![Miminthikhaff's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miminthikhaff&bg_color=141321&color=4A90E2&line=4A90E2&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+
 
 ---
 
