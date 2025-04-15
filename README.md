@@ -4,7 +4,7 @@
   </a>
 </p>
 
-
+---
 
 <div align="center">
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-4A90E2?style=for-the-badge" alt="Full Stack" />
