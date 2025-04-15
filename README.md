@@ -77,7 +77,7 @@ With a proven track record in **system optimization** and **seamless integration
 
 ## 😂 Random Dev Meme
 
-<img src="https://randommeme-five.vercel.app/" alt="Dev Meme" height="400"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 
