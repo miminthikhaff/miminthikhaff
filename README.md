@@ -1,7 +1,7 @@
 <h1 align=center> HI! I'm Inthikhaff</h1>
 <h3 align="center">A passionate fullstack developer from Srilanka</h3>
 # 💫 About Me:
-I'm Inthikhaff, a passionate 4th-year Undergraduate Student in Information Technology, specializing in the dynamic realm of Software Engineering. With a heart full of enthusiasm for all things code and an insatiable curiosity for technology's endless possibilities, I've embarked on a journey that began a few years back and has been an exhilarating ride ever since.
+Dynamic Full Stack Associate Software Engineer with comprehensive experience in developing scalable web applications from concept to deployment using Laravel and React. Skilled in enhancing backend functionalities to boost application performance and specializing in creating user-centric, responsive solutions. With a proven track record in system optimization and seamless integration of frontend and backend interactions, I am adept at employing agile methodologies to deliver efficient and robust software solutions. 
 
 
 ## 🌐 Socials:
