@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Inthikhaff</h1>
-<h3 align="center">🚀 Full Stack Developer | Laravel & React Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀 Full Stack Developer | Cloud Enthusiast | Problem Solver</h3>
 
 ---
 
